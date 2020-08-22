@@ -1,4 +1,7 @@
-Code to go with hardware radar system
+Code to go with hardware radar system.
+
+Demo:
+https://youtu.be/vNoFd71a8_g
 
 Sketch_may27a is arduino code
 radar_code_v2 is code for processing (https://www.processing.org/download/?processing)
